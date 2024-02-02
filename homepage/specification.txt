@@ -1,0 +1,31 @@
+HTML tags
+1  <Header>
+2  <nav>
+3  <a>
+4  <div>
+5  <section>
+6  <img>
+7  <footer>
+8  <h1>
+9  <h2>
+10 <h3>
+11 <h5>
+12 <i>
+13 <p>
+
+
+CSS Selectors
+1  floatingImage
+2  nav-font
+3  page-intro
+4  custom-padding
+5  img-fluid
+6  full-width-image
+7  hobbies-grid
+8  hobby-card
+9  hobby-img
+10 skills-icon
+
+I used bootstrap classes to create navbar, beautify the elements, and give approptiate size and weight to font, etc.
+
+On the homepage, there is a cat image that is visible for 2 seconds, when clicked, alerts "Meow", which has been implemented with JavaScript.

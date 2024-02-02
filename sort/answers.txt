@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It as very fast when the files are sorted, took less than 1 second but very slow with other files, took 5 seconds.
+
+sort2 uses: Merge Sort
+
+How do you know?: It is the fastest algorithm for each of the files and takes less than 1 second.
+
+sort3 uses: Selection Sort
+
+How do you know?: It takes same amount of time for each of the case which is around 2 seconds.

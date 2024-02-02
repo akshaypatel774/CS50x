@@ -1,0 +1,2 @@
+If audio aura is determined by looking at the average energy, valence, and danceability of a person’s top 100 songs from the past year, I would characterize their audio aura as energetic, and moderately positive.
+I think a better way for calculating would be to include other measures as well such as mood, influence, recency effect, conditions and situations, etc..
